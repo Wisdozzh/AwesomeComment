@@ -1,5 +1,6 @@
 # AwesomeComment
 #一些神注释
+![][awesome]
 ![这里写图片描述](http://img.blog.csdn.net/20170118091301755?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvenpoX3JlY2VpdmU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![这里写图片描述](http://img.blog.csdn.net/20170118091328107?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvenpoX3JlY2VpdmU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ##不扯其他的了 直接上神注释
@@ -922,3 +923,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+
+--------------------------------
+[csdn]:http://blog.csdn.net/zzh_receive/ "我的博客"
+[awesome]:https://github.com/Wisdozzh/AwesomeComment/raw/master/img/awesome.gif
